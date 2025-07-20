@@ -10,7 +10,7 @@ neste portifolio terá alguns projetos pessoais com essas tecnologias
  *sistema usando python, para um cadastro e login, aonde tera um menu com opçoes de controle de estoque, saidas e entradas(financeiras)
  e uma agenda integrada, para marcar horarios
  
-*tecnologias: python, sqlite3
+*tecnologias: python, sqlite3, javascript, figma, react, c#
 
 *repositorio:
 
