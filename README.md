@@ -1,18 +1,7 @@
 #Sobre Mim
 
 Sou estudante e desenvolvedor fascinado pelo que faço, gosto de aprender e descobrir novas tecnologias
-tenho um breve conhecimento em linguagens como python, sql, java, tenho grande interesse em data base management,
-neste portifolio terá alguns projetos pessoais com essas tecnologias
-
-#Projetos
-## Sistema de agenda e controle financeiro,estoque
-
- *sistema usando python, para um cadastro e login, aonde tera um menu com opçoes de controle de estoque, saidas e entradas(financeiras)
- e uma agenda integrada, para marcar horarios
- 
-*tecnologias: python, sqlite3, javascript, figma, react, c#
-
-*repositorio:
+tenho um breve conhecimento em linguagens e ferramentas  como python, sql, java, javascript, figma tenho grande interesse em data base management, product enginner
 
 
 #contato
